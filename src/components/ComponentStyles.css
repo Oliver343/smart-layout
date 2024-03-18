@@ -1,0 +1,25 @@
+.header{
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-expanded {
+    height: 100px;
+}
+
+.header-collapsed {
+    height: 40px;
+}
+
+.button-collapse {
+    background-color: black;
+    color: white;
+    border: 4px white solid;
+    font-weight: bold;
+    width: 30px;
+    height: 30px;
+}

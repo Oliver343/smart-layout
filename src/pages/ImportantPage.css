@@ -1,0 +1,10 @@
+/* * {
+    border: red 2px dashed;
+} */
+
+.importantBody {
+    background-color: #282c34;
+    color: white;
+    min-height: 100vh;
+    font-size: 40px;
+}
